@@ -1,0 +1,144 @@
+/*Reset CSS*/
+* {
+    padding:  0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color:#1a1c1d; */
+}
+
+@font-face {
+    font-family:'font-title';
+    src: url('/assets/fonts/Beaufort\ for\ LOL\ Bold.ttf');
+}
+
+@font-face {
+    font-family:'noidung';
+    src: url('/assets/fonts/Lato\ Semibold.ttf');
+}
+
+
+
+#main {
+    
+
+}
+/* -------------------- PHẦN ĐẦU --------------------  */
+#header {  
+    top:0;
+    background-color:#1a1c1d ;
+    height:170px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+}
+ 
+ .title1 {
+    padding-top: 25px;
+    color:#f0e6d2;
+    text-align: center;
+    font-family: 'font-title';
+    font-size: 30px;
+} 
+.group-8{
+    padding-top: 10px;
+    color:#f0e6d2;
+    font-family: 'font-title';
+    font-size: 43px;
+}
+.ti-angle-double-down{
+    padding-top: 70px;  
+    color: #c8aa6e;
+    font-size: 30px;
+}
+#slider {
+    
+    margin-top: 170px;
+    height: 1100px;
+}
+/* -------------------- --------------------  */
+/* -------------------- MEMBER1 --------------------  */
+.m1 {
+
+    padding-top: 45px;
+    color:#c8aa6e;
+    text-align: center;
+    font-family: 'font-title';
+    font-size: 50px;
+}
+.box1 {
+    overflow: hidden;
+    border: 5px solid;
+    border-color: #1a1c1d;
+    background-color:#f0e6d2 ;
+    height:400px;
+    width:1000px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+.avatar-img{
+    width: fit-content;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.thongtin {
+    height: 100px;
+    font-size: 25px;
+    color: #1a1c1d;
+    margin-left: 50px;
+    font-family: 'font-title';
+    float: right;
+    width: 700px;
+
+}
+.avatar {
+    margin-left: 65px;
+    font-family: 'font-title';
+    font-size: 20px;
+    color:#1a1c1d ;
+}
+/* -------------------- --------------------  */
+#content  {
+
+}
+/* -------------------- MEMBER2-------------------- */
+.m2 {
+    padding-top: 70px;
+    color:#c8aa6e;
+    text-align: center;
+    font-family: 'font-title';
+    font-size: 50px;
+}
+.box2 {
+
+    border: 5px solid;
+    border-color: #1a1c1d;
+    background-color:#f0e6d2 ;
+    height:400px;
+    width:1000px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+.thongtin2 {
+    height: 100px;
+    font-size: 25px;
+    color: #1a1c1d;
+    margin-left: 40px;
+    font-family: 'font-title';
+    float: right;
+    width: 700px;
+}
+.avatar-img2 {
+    width: fit-content;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.avatar2 {
+    margin-left: 65px;
+    font-family: 'font-title';
+    font-size: 20px;
+    color:#1a1c1d ;
+}
+/* -------------------- -------------------- */
+#footer  {
+
+}
