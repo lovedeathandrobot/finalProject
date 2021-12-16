@@ -8,12 +8,12 @@
 
 @font-face {
     font-family:'font-title';
-    src: url('./assets/fonts/Beaufort for LOL Bold.ttf');
+    src:url('/assets/fonts/Beaufort for LOL Bold.ttf');
 }
 
 @font-face {
     font-family:'noidung';
-    src: url('./assets/fonts/Lato\ Semibold.ttf');
+    src: url('/assets/fonts/Lato\ Semibold.ttf');
 }
 
 
